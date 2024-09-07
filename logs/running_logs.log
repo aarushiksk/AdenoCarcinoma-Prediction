@@ -1,1 +1,17 @@
 [2024-09-06 10:00:40,251: INFO: main: Welcme to Chest Cancer Classifier]
+[2024-09-07 22:07:49,204: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-07 22:07:49,216: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-07 22:07:49,218: INFO: common: created directory at: artifacts]
+[2024-09-07 22:07:49,221: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-07 22:07:49,224: INFO: 1930511925: Downloading data from https://drive.google.com/file/d/1A5ecbptJJC2xtEA_ah2dA7ouO7P1Pzet/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-07 22:07:59,772: INFO: 1930511925: Downloaded data from https://drive.google.com/file/d/1A5ecbptJJC2xtEA_ah2dA7ouO7P1Pzet/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-07 22:33:12,306: INFO: main: >>>>>>>>>> stageData Ingestion Stage started <<<<<<<<<<]
+[2024-09-07 22:33:12,308: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-07 22:33:12,309: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-07 22:33:12,324: INFO: common: created directory at: artifacts]
+[2024-09-07 22:33:12,324: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-07 22:33:12,325: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1A5ecbptJJC2xtEA_ah2dA7ouO7P1Pzet/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-07 22:33:24,037: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1A5ecbptJJC2xtEA_ah2dA7ouO7P1Pzet/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-07 22:33:24,853: INFO: main: >>>>>>>>>> stageData Ingestion Stage completed <<<<<<<<<<
+ 
+=======x]

@@ -5,14 +5,14 @@ from ChestCancerClassifier import logger
 import json
 import joblib
 from ensure import ensure_annotations
-from box import ConfigBox
+from box import ConfigBox 
 from pathlib import Path
 from typing import Any
 import base64
 
 
 
-@ensure_annotations #It is a decorator that checks the type of arguments and return values of functions
+@ensure_annotations    #It is a decorator that checks the type of arguments and return values of functions
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """reads yaml file and returns
 

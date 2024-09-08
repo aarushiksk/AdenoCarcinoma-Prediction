@@ -6,3 +6,9 @@ Home-page: https://github.com/aarushiksk/AdenoCarcinoma-Prediction
 Author: aarushiksk
 Author-email: aarushiksk@gmail.com
 Project-URL: Bug Tracker, https://github.com/aarushiksk/AdenoCarcinoma-Prediction/issues
+
+##### utils folder:
+-Used for writing functionalities we'll be using again and again.
+
+##### artifacts;
+-Whenever a component is generating something we store it here

@@ -18,4 +18,5 @@ Flask
 Flask-Cors
 python-dotenv
 streamlit
+cmake
 -e .

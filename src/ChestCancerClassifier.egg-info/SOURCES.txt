@@ -7,6 +7,7 @@ src/ChestCancerClassifier.egg-info/dependency_links.txt
 src/ChestCancerClassifier.egg-info/top_level.txt
 src/ChestCancerClassifier/components/__init__.py
 src/ChestCancerClassifier/components/data_ingestion.py
+src/ChestCancerClassifier/components/model_evaluation_mlflow.py
 src/ChestCancerClassifier/components/model_trainer.py
 src/ChestCancerClassifier/components/prepare_base_model.py
 src/ChestCancerClassifier/config/__init__.py
@@ -15,8 +16,10 @@ src/ChestCancerClassifier/constants/__init__.py
 src/ChestCancerClassifier/entity/__init__.py
 src/ChestCancerClassifier/entity/config_entity.py
 src/ChestCancerClassifier/pipeline/__init__.py
+src/ChestCancerClassifier/pipeline/prediction.py
 src/ChestCancerClassifier/pipeline/stage_01_data_ingestion.py
 src/ChestCancerClassifier/pipeline/stage_02_prepare_base_model.py
 src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py
+src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py
 src/ChestCancerClassifier/utils/__init__.py
 src/ChestCancerClassifier/utils/common.py
